@@ -62,9 +62,6 @@ Edit data_dir, model_save_path, and label_map_path in the script as needed.
 📝 Dataset Format
 Organize your dataset as:
 
-kotlin
-Copy
-Edit
 data/
 └── captured_signs/
     ├── क/
