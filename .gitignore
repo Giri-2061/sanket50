@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Dataset and captured images
+data/
+captured_frame_*.jpg
+
+# Model weights and checkpoints
+models/*.h5
+models/*.ckpt
+models/*.pb
+models/*.tflite
+
+# TensorBoard and training logs
+logs/
+*.log
+
+# Font files (optional)
+*.ttf
+fonts/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/

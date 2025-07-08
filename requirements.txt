@@ -1,0 +1,9 @@
+# Required Python packages
+opencv-python
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+matplotlib
+mediapipe
