@@ -27,11 +27,6 @@ This project uses computer vision and deep learning to recognize **Nepali Sign L
 ├── .gitignore
 └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## 🧪 Requirements
 
@@ -51,9 +46,7 @@ Tip: Use mangal.ttf or NotoSansDevanagari-Regular.ttf in the fonts/ folder for p
 
 🚀 Running the Project
 🔍 1. Predict Hand Signs
-bash
-Copy
-Edit
+
 python "Predict Sign Updated.py"
 Press q to quit the webcam view.
 
@@ -62,9 +55,7 @@ Make sure your webcam is accessible and the model path is correct.
 🧠 2. Train on Your Own Dataset (Optional)
 To train on your custom hand signs:
 
-bash
-Copy
-Edit
+
 python train_model.py
 Edit data_dir, model_save_path, and label_map_path in the script as needed.
 
@@ -107,14 +98,3 @@ Predicted label shown in green text inside the box
 
 🧑‍💻 Author
 Parichit Giri
-
-📜 License
-This project is open source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like to add screenshots, badge support, or a link to a video demo!
